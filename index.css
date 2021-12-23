@@ -1,0 +1,14 @@
+h1 {
+    color:blue;
+font-size:100px;
+}
+h2 {
+    color: #80ff00;
+    font-size: 100px;
+    margin-top: 100px;
+    border-style: dashed;
+    border-color: #808080;
+    background-color: black;
+    /* width: max-content; */
+    border-inline:unset;
+}
